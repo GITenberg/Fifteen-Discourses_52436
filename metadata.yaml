@@ -1,0 +1,42 @@
+_repo: Fifteen-Discourses_52436
+_version: 0.0.1
+alternative_title: 15 Discourses
+contributor:
+  annotator:
+    agent_name: Phillipps, L. March (Lisle March)
+    alias: Phillipps, Lisle March
+    birthdate: 1863
+    deathdate: 1917
+    gutenberg_agent_id: '5873'
+    url: http://www.gutenberg.org/2009/agents/5873
+creator:
+  author:
+    agent_name: Reynolds, Joshua, Sir
+    alias: Reynolds, Sir Joshua
+    birthdate: 1723
+    deathdate: 1792
+    gutenberg_agent_id: '44392'
+    url: http://www.gutenberg.org/2009/agents/44392
+    wikipedia: https://en.wikipedia.org/wiki/Joshua_Reynolds
+  editor:
+    agent_name: Rhys, Ernest
+    birthdate: 1859
+    deathdate: 1946
+    gutenberg_agent_id: '6540'
+    url: http://www.gutenberg.org/2009/agents/6540
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Rhys
+description: ''
+gutenberg_issued: '2016-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52436'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Art'
+- GITenberg
+title: Fifteen Discourses
+url: http://www.gutenberg.org/ebooks/52436
